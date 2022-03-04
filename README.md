@@ -1,4 +1,4 @@
 # trainingapi
 
-Training Api.
+Training Json serialization.
 
